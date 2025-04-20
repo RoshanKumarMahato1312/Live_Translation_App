@@ -12,8 +12,8 @@ A real-time translation application that captures spoken language through the mi
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, Socket.io client 
+- **Backend**: Node.js, Express.js, Socket.io 
 - **APIs**: Speech Recognition and Translation APIs (e.g., Google Cloud Speech-to-Text, Google Translate API)
 - **Languages**: JavaScript
 
